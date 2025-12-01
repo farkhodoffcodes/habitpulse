@@ -1,0 +1,5 @@
+{
+  "name": "HabitPulse",
+  "description": "A high-fidelity dark-mode habit tracker with analytics, heatmaps, and sleek animations.",
+  "requestFramePermissions": []
+}
